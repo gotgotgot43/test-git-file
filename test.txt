@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 feature-2
+=======
+hello
+>>>>>>> 1b30118 (edit test.txt)
 
-line 3
+codecamp
 
 Hello
 
