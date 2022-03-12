@@ -1,6 +1,6 @@
 feature-2
 
-add line two
+line 3
 
 Hello
 
