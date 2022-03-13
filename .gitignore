@@ -1,0 +1,4 @@
+# index.* to ignore all file that have name index
+*.js
+
+/app
